@@ -256,8 +256,8 @@ button {
   display: grid; }
 
 .modal-item img {
-  height: 80vh;
-  width: 80vw;
+  height: 100vh;
+  width: 100vw;
   border-radius: 10px;
   border: 1px solid #fff; }
 
@@ -683,11 +683,11 @@ button {
   .about-container1 .panel3 {
     background: url("../images/Anna.jpg") no-repeat center/cover; }
   .about-container1 .panel4 {
-    background: url("../images/Krzysztof.jpg") no-repeat center/cover; }
+    background: url("../images/gramyDlaSlawka4.jpg") no-repeat center/cover; }
   .about-container1 .panel5 {
     background: url("../images/Adam.jpg") no-repeat center/cover; }
   .about-container1 .panel6 {
-    background: url("../images/Leszek.jpg") no-repeat center/cover; }
+    background: url("../images/leszek.jpg") no-repeat center/cover; }
   .about-container1 .panel7 {
     background: url("../images/Arek.jpg") no-repeat center/cover; }
 
